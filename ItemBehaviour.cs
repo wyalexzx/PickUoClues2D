@@ -1,3 +1,6 @@
+// Line 10 - Why are the items moving in a circle?
+// Line 8 -Why are the items fireflies?
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
